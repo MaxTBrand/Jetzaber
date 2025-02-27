@@ -14,4 +14,9 @@
     "framer-motion": "latest",
     "react-icons": "latest"
   }
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+}
 }
